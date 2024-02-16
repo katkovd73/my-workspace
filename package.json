@@ -1,6 +1,6 @@
 {
-  "name": "my-workspace",
-  "version": "0.0.0",
+  "name": "testing-my-library",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -35,5 +35,20 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^17.2.0",
     "typescript": "~5.2.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.4.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katkovd73/my-workspace.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dmitry Katkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katkovd73/my-workspace/issues"
+  },
+  "homepage": "https://github.com/katkovd73/my-workspace#readme"
 }
